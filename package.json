@@ -1,0 +1,6 @@
+{
+  "name": "expressive-js",
+  "devDependencies": {
+    "lerna": "^3.1.4"
+  }
+}
